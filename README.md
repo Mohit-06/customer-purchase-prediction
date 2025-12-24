@@ -176,5 +176,6 @@ This project demonstrates an end-to-end Machine Learning solution, from data und
 * CI/CD integration
 * Monitoring model drift
 
-#Author 
+#Author :
 Mohit Kumar
+
